@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  series_name: MyString
+  series_icon: MyString
+  icon: MyString
+  portrait: MyString
+  order: MyString
+
+two:
+  name: MyString
+  series_name: MyString
+  series_icon: MyString
+  icon: MyString
+  portrait: MyString
+  order: MyString
