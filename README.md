@@ -16,6 +16,7 @@
   - Ruby
   - Rails
   - PostgreSQL
+  - GraphQl
   - Heroku Deployment
   
 > [Back to the top](#my-tier-ultimate-api)
